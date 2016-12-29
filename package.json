@@ -1,0 +1,19 @@
+{
+  "name": "you-dont-know-js-up-and-going",
+  "version": "1.0.0",
+  "description": "Code written while reading You Don't Know JS: Up &amp; Going by Kyle Simpson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeljkofilipin/you-dont-know-js-up-and-going.git"
+  },
+  "author": "Željko Filipin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeljkofilipin/you-dont-know-js-up-and-going/issues"
+  },
+  "homepage": "https://github.com/zeljkofilipin/you-dont-know-js-up-and-going#readme"
+}
