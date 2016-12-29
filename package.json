@@ -2,7 +2,7 @@
   "name": "you-dont-know-js-up-and-going",
   "version": "1.0.0",
   "description": "Code written while reading You Don't Know JS: Up &amp; Going by Kyle Simpson",
-  "main": "index.js",
+  "main": "Gruntfile.js",
   "scripts": {
     "test": "grunt"
   },
