@@ -10,10 +10,17 @@ module.exports = function (grunt) {
         '**/*.js',
         '!node_modules/**'
       ]
+    },
+
+    // Configure a run task
+    run: {
+      index: {
+        args: ['store.js']
+      }
     }
 
   })
 
   // Default tasks
-  grunt.registerTask('default', 'eslint')
+  grunt.registerTask('default', ['eslint', 'run'])
 }
