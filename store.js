@@ -1,3 +1,5 @@
+'use strict'
+
 const taxRate = 0.25
 const phonePrice = 99.99
 const accessoryPrice = 9.99
